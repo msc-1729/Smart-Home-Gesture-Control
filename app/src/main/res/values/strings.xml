@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="text_in_main_page">Please Select one of the Gestures</string>
+    <string name = "button_main_text"> Next Page </string>
+    <string name="button_gesture_activity"> Practice </string>
+    <string name="replay_gesture_button">REPLAY</string>
+    <string name="upload_file_button"> UPLOAD FILE</string>
+    <string name="record_video_button">Record Gesture</string>
+</resources>
